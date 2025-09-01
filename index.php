@@ -62,8 +62,12 @@
 
                 <!-- Botão Enviar -->
                 <button type="submit" class="btn btn-primary" name="enviar">Enviar</button>
-                
+
             </form>
+            <!-- Botão para ver mensagens -->
+            <div class="mt-3">
+                <a href="listagem.php" class="btn btn-success">Ver Mensagens</a>
+            </div>
         </div>
 
         <!-- Scripts do Bootstrap -->
